@@ -9,7 +9,7 @@ Budding front end sofware engineer with a passion for intiuitive user experience
 
 alexander.a.j.mattingley@gmail.com
 
-<a href="https://www.linkedin.com/in/alexander-mattingley-244304271/">linkedin<a\>
+<a href="https://www.linkedin.com/in/alexander-mattingley-244304271/">linkedin
 
 
 <!--
