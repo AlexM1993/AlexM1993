@@ -1,4 +1,16 @@
-### Hi there 👋
+### Hi there, I'm Alex 👋
+
+Budding front end sofware engineer with a passion for intiuitive user experiences! I enjoy working with Javascript and React.
+
+- 🔭 I’m currently working on ... A react based To do list app
+- 🌱 I’m currently learning ... Typescript & furthering my React knowledge
+
+📫 How to reach me:
+
+alexander.a.j.mattingley@gmail.com
+
+<a href="https://www.linkedin.com/in/alexander-mattingley-244304271/">linkedin<a\>
+
 
 <!--
 **AlexM1993/AlexM1993** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
