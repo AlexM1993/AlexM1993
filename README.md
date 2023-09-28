@@ -2,7 +2,7 @@
 
 Budding Front-end sofware engineer with a passion for intiuitive user experiences! I enjoy working with Javascript and React.
 
-- 🔭 I’m currently working on ... A react based To do list app 
+- 🔭 I’m currently working on ... A private NextJS project 
 - 🌱 I’m currently learning ... Typescript & furthering my React knowledge
 
 📫 How to reach me:
